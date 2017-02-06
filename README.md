@@ -1,6 +1,6 @@
 ## Welcome to My Github Page
 
-You can use the [editor on GitHub](https://github.com/gweb330/gweb330.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page will serve as the main source of my GitHub projects. I'm learning R and Python at the moment, both with the intent of applying them to marketing tasks such as marketing automation, creating association rules, clustering, segmentation, and more. For a more polished look at my projects, check out my personal website at 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
